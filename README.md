@@ -10,7 +10,7 @@ Made with express and puppeteer.
 
 Download the files and type 
 
-    `npm i`
+    npm i
 
  
 with your favorite CLI. Run it by typing 
