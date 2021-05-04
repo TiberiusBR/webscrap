@@ -8,7 +8,14 @@ Made with express and puppeteer.
 
 ## Installing
 
-Download the files and type "npm i" with your favorite CLI. Run it by typing "node server.js"
+Download the files and type 
+
+    `npm i`
+
+ 
+with your favorite CLI. Run it by typing 
+
+    node server.js
 
 ___
 
@@ -21,5 +28,12 @@ Feito com express e puppeteer.
 
 ## Instalando
 
-Baixe os arquivos e digite "npm i" com seu CLI favorito. Rode digitando "node server.js"
+Baixe os arquivos e digite 
+
+    npm i
+
+ 
+com seu CLI favorito. Rode digitando 
+
+    node server.js
 
